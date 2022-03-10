@@ -2,7 +2,7 @@
 
 
 
-🙋🏽‍♂️ About me
+### 🙋🏽‍♂️ About me <hr>
 
 🎓 I'm currently studding at Coding Factory by ESIEE Tech - Cergy
 
