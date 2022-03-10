@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, Welcome to my GitHub profile ! I'm Theo, a french passionate developper.
 
-<!--
-**TheoLandemaine/TheoLandemaine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🙋🏽‍♂️ About me
+
+🎓 I'm currently studding at Coding Factory by ESIEE Tech - Cergy
+
+💻 I'm using : Java, Python, HTML5, CSS3, JavaScript, ReactJS, JavaFX.
+
+💬 My main language is French but i try my best to speak and write in english
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=test-s&theme=radical&hide_langs_below=8)
+![](https://github-readme-stats.vercel.app/api?username=test-s&show_icons=true&theme=radical&count_private=true)
