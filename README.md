@@ -13,6 +13,6 @@
 ### 📊 My stats
 <hr>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoLandemaine&theme=radical&hide_langs_below=8) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheoLandemaine&theme=github_dark&hide_langs_below=8) 
 <br/>
-![](https://github-readme-stats.vercel.app/api?username=TheoLandemaine&show_icons=true&theme=radical&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=TheoLandemaine&show_icons=true&theme=github_dark&count_private=true)
