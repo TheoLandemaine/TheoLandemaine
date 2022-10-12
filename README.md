@@ -9,6 +9,7 @@
 
 - 💬 My main language is French but i try my best to speak and write in english 
 
+- 👨‍💻 My portfolio : https://portfolio.theolandemaine.fr/
 
 
 ## 💻 Programming skills:
